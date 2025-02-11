@@ -1,0 +1,1 @@
+Nethra Object Detection is an automated classroom attendace system , where the model counts the number of students present in the classroom according ot the environment and generates the total count , predicted count and original count . We used a CNN model which is built from scarth for the counting of the students. 
