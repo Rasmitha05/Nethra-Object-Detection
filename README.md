@@ -30,6 +30,7 @@ To set up the Nethra-Object-Detection system on your local machine, follow these
    pip install -r requirements.txt
 6. Run the application:
    python main.py
+
 📌 Usage
 Prepare Input Data: Ensure that the classroom images are available in the specified input directory.
 
