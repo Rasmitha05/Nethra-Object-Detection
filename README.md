@@ -11,8 +11,8 @@ Nethra-Object-Detection is an automated classroom attendance system that utilize
 ## 🛠️ Tech Stack
 
 - **Programming Language:** Python
-- **Machine Learning Framework:** TensorFlow/Keras (Specify if used)
-- **Libraries:** OpenCV, NumPy, Pandas (Include any other relevant libraries)
+- **Machine Learning Framework:** TensorFlow
+- **Libraries:** OpenCV, NumPy, Pandas 
 
 ## 🚀 Installation
 
